@@ -1,0 +1,11 @@
+vendor
+.idea
+config.yml
+**~
+**#
+~$*.*
+.DS_Store
+*.csv
+**config.yml
+#*.xls
+#*.xlsx

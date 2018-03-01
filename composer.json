@@ -1,0 +1,16 @@
+{
+  "require": {
+    "enoola/airwatchrestwebservicesclientlib": "dev-master"
+  },
+  "repositories": [
+      {
+        "url": "https://github.com/enoola/AirwatchRESTWebServicesClientLib.git",
+        "type": "git"
+      }
+  ],
+  "autoload": {
+     "psr-4": {
+        "PhPeteur\\AirwatchWebservices\\FursionChartsReports\\": "src/PhPeteur/AirwatchWebservices/AirwatchFusionChartsReports"
+     }
+  }
+}
