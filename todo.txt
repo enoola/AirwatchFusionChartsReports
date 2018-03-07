@@ -1,0 +1,8 @@
+1. save data in SQLite
+   copy the whole device info in oneshot linear table
+     P.O.A (Point Of Attention) : serial number,imei, sccid... (sometime more than one device with those infos exacts
+     same when re-enrolling
+      > AirwatchBDDId will be the only discriminet
+1. save data in SQL
+  a. a script to gather data and save them into customer instance
+2. must be able to gather only certain table informations from a SELECT comment

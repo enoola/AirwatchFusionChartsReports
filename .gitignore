@@ -9,3 +9,8 @@ config.yml
 **config.yml
 #*.xls
 #*.xlsx
+*.sql
+*.logs
+testdb.php
+indexdb.php
+myautoload.php
